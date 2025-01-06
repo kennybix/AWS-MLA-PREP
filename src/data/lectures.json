@@ -1,0 +1,13 @@
+[
+    {
+      "id": "lecture-1",
+      "title": "Introduction to AWS Machine Learning",
+      "content": "In this lecture, we explore the AWS ML ecosystem..."
+    },
+    {
+      "id": "lecture-2",
+      "title": "Data Engineering on AWS",
+      "content": "We examine Amazon S3, AWS Glue, and best practices..."
+    }
+  ]
+  
